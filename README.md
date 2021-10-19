@@ -7,3 +7,4 @@ Some additional change.
 this is a change by Julian
 
 I, Alexis, have attended the workshop 'Git & Github' on 10/15
+I, Tom, attended the workshop with Francesca on 2021-10-19
